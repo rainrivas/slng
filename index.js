@@ -27,10 +27,9 @@ program
       } else {
         trimRes = results;
       }
-      trimRes.forEach((result, index) => {
+      trimRes.forEach((result) => {
         if (typeof (result.definition) !== undefined) {
-          var i = index+1;
-          console.log("=======================\n" + i + ": " + result.definition);
+          console.log("=======================\n" + result.definition);
         }
       });
     });
