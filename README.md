@@ -2,14 +2,14 @@
 > Get hip or die trying
 
 ### Installation
-Create a symbolic link script executable to a directory in your path, e.g.:
+`slng` is on npm! Check out out [here](https://www.npmjs.com/package/slng)
 
 ```
-ln -s $PATH/TO/REPO/slng/slng /bin/slng
+npm install -g slng
 ```
 
 #### Usage
-Once the sym link is in your path, you should be able to call with:
+Once installed, you should be able to call with:
 
 ```
 slng <search string>
