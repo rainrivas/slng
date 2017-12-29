@@ -1,3 +1,5 @@
+# SLGN HAS MOVED TO https://github.com/5-gwoap/slng-node
+____
 # Slng - The modern slang cli tool
 > Get hip or die trying
 
